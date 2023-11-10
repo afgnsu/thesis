@@ -1,4 +1,4 @@
-簡介
+蘇介吾簡介
 ========================
 
 此專案是 [Pandoc](https://github.com/jgm/pandoc) 的臺大碩博士論文模板，讓使用者能透過 (Pandoc) **Markdown** 語法撰寫論文 (無須安裝與了解 LaTeX!!)。此專案的前身是 [ntuthesis2](https://github.com/liao961120/ntuthesis2) (Python Script) 以及 [ntuthesis](https://github.com/liao961120/ntuthesis) (R 套件)。這個版本大幅精簡了先前的相依需求。
